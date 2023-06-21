@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chart_bar/static/css/main.7acaea2f.css",
+    "main.js": "/chart_bar/static/js/main.07d3183d.js",
+    "index.html": "/chart_bar/index.html",
+    "main.7acaea2f.css.map": "/chart_bar/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/chart_bar/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
